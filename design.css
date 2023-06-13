@@ -58,6 +58,7 @@ nav ul li a:before {
 }
 nav ul li a:hover::before {
     width: 35%;
+	text-decoration: none;
 }
 
 /*Hero section*/
@@ -109,6 +110,7 @@ main h1 {
 
 .primary:hover {
     background-color: pink;
+	text-decoration: none;
 }
 
 .secondary {
@@ -127,6 +129,7 @@ main h1 {
 
 .secondary:hover svg {
     transform: translateX(12px);
+	text-decoration: none;
 }
 
 .offer {
@@ -222,6 +225,7 @@ p.price {
 
 .card:hover .card-detail {
     transform: translateY(-20px);
+	text-decoration: none;
 }
 
 .overlay {
