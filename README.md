@@ -55,7 +55,7 @@
                     <div class="card card1">
                         <div class="card-detail">
                             <div>
-                                <a href="#" class="product-title">Allfighter 1litre</a>
+                                <a href="#" class="product-title">Allfighter 1 litre</a>
                                 <p>Pesticide</p>
                             </div>
                             <p class="price">Rs 1650</p>
@@ -64,7 +64,7 @@
                     <div class="card card2">
                         <div class="card-detail">
                             <div>
-                                <a href="#" class="product-title">Glyfarm 1litre</a>
+                                <a href="#" class="product-title">Glyfarm 1 litre</a>
                                 <p>Herbicide</p>
                             </div>
                             <p class="price">Rs 1700</p>
@@ -73,7 +73,7 @@
                     <div class="card card3">
                         <div class="card-detail">
                             <div>
-                                <a href="#" class="product-title">Allmicro 1litre</a>
+                                <a href="#" class="product-title">Micro Plus 1 litre</a>
                                 <p>Micronutrient</p>
                             </div>
                             <p class="price">Rs 700</p>
