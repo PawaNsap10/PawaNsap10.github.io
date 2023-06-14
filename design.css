@@ -81,11 +81,11 @@ main {
 main h1 {
     font-family: 'aerial';
     font-weight: normal;
-    font-size: 5rem;
+    font-size: 4rem;
     margin: 0;
 }
 .subhead {
-    font-size: 1.9rem;
+    font-size: 1.5rem;
 }
 
 .buttons {
@@ -104,7 +104,7 @@ main h1 {
     color: black;
     border-radius: 1.3em;
     background-color: rgb(250, 215, 171);
-    padding: 0.8em 1.5em;
+    padding: 0.8em 1em;
     margin: 1.5em;
 }
 
@@ -136,19 +136,19 @@ main h1 {
     display: flex;
     border: 1px solid navy;
     border-radius: 2em;
-    padding: 3em;
+    padding: 2.5em .5em;
     gap: 2.5em;
     position: relative;
 }
 
 p.rate {
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: bold;
     margin: 0;
 }
 
 p.details {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     margin: 0;
 }
 
@@ -165,16 +165,16 @@ p.details {
 }
 
 .card {
-    border-radius: 1.8em;
-    padding: 1.5em;
+    border-radius: 1.5em;
+    padding: 0.8em;
     display: flex;
     align-items:end;
-    background-size: 120%;
+    background-size: 140%;
     transition: background-size .3s;
 }
 
 .card:hover {
-    background-size: 140%;
+    background-size: 150%;
 
 }
 
@@ -195,7 +195,7 @@ p.details {
 }
 
 .card-detail {
-    padding: 0.5em 1em;
+    padding: 0.5em .5em;
     background: white;
     border-radius: 0.8em;
     width: 100%;
@@ -206,7 +206,7 @@ p.details {
 }
 
 .product-title {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     font-weight: bold;
     text-decoration: none;
     color: black;
@@ -214,7 +214,7 @@ p.details {
 }
 
 .card-detail p {
-    font-size: 1.4rem;
+    font-size: 1rem;
     margin: 0;
 }
 
@@ -224,7 +224,7 @@ p.price {
 }
 
 .card:hover .card-detail {
-    transform: translateY(-20px);
+    transform: translateY(-12px);
 	text-decoration: none;
 }
 
